@@ -3,7 +3,7 @@
 Name: Sai Keerthi Lella  
 Email: saikeerthilella13@gmail.com  
 Store URL: https://skl-liquid-dev.myshopify.com  
-GitHub Repo: https://github.com/[your-username]/webalar-shopify-assignment
+GitHub Repo: https://github.com/keerthi1366/weblar-shopify-assignment
 
 # Task Overview
 
