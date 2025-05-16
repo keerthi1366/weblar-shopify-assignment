@@ -1,0 +1,47 @@
+# At the end of the base.css file in dawn theme enter this for the given tasks
+
+.badge {
+  display: inline-block;
+  padding: 0.25em 0.7em;
+  margin-right: 0.3em;
+  margin-bottom: 0.3em;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  vertical-align: middle;
+}
+
+
+.badge-budget {
+  background-color: #e6f7e6;
+  color: #217a00;           
+  border: 1px solid #b7e4b7;
+}
+
+.badge-limited {
+  background-color: #fff4e5;
+  color: #b26a00;           
+  border: 1px solid #ffd699;
+}
+
+.homepage-greeting {
+  text-align: center;
+  margin: 2em 0 1em 0;
+  font-size: 2em;
+  color: #1a1a1a;
+  font-weight: 700;
+}
+.greeting-banner {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  background-color: #f0f4f8;
+  color: #333;
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
